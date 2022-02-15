@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 02 09:38:33 IST 2021
+opentelemetry-semconv-1.6.0-alpha-sources.jar>central=
+opentelemetry-semconv-1.6.0-alpha.pom>central=
+opentelemetry-semconv-1.6.0-alpha.jar>central=
